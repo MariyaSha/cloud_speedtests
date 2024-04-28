@@ -15,3 +15,10 @@ If you're following along on YouTube, please use this link to get $250 off your 
 - To run **CPU_speedtest.py** no requirements needed other than Python itself.
 - To run **GPU_speedtest.py** you'll need CUDA installed, please follow the instructions of my <a href="https://youtu.be/r9IqwpMR9TE" target="_blank">CUDA tutorial</a> if you're not sure how to do it.
 
+## Connect with me
+- YouTube: https://youtube.com/@pythonsimplified
+- Discord: https://discord.com/invite/wgTTmsWmXA
+- LinkedIn: https://ca.linkedin.com/in/mariyasha888
+- Twitter: https://twitter.com/mariyasha888
+- Blog: https://www.pythonsimplified.org
+
