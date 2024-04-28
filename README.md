@@ -9,7 +9,9 @@ This repository stores CPU and GPU speedtest, featured in this <a href="https://
 
 ## Vultr Credits
 
-If you're following along on YouTube, please use this link to get $250 off your first 30 days of Vultr use: https://getvultr.com/pythonsimplified.
+If you're following along on YouTube, please use this link to get $250 off your first 30 days of Vultr use: 
+<br>
+https://getvultr.com/pythonsimplified.
 
 ## Requirements
 - To run **CPU_speedtest.py** no requirements needed other than Python itself.
